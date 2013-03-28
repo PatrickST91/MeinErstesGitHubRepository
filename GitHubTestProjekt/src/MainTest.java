@@ -1,4 +1,3 @@
-
 public class MainTest 
 {
 
@@ -11,6 +10,7 @@ public class MainTest
 		System.out.println("ja klar !");
 		System.out.println("cool");
 		System.out.println("lol");
+		System.out.println("l^^");
 
 	}
 
