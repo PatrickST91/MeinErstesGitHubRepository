@@ -10,6 +10,7 @@ public class MainTest
 		System.out.println("das geht ?");
 		System.out.println("ja klar !");
 		System.out.println("cool");
+		System.out.println("lol");
 
 	}
 
